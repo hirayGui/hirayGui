@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎯 Currently transitioning my career to focus exclusively on Fron-End Development.<br><br>🛠️ Main Techs: PHP, JavaScript, HTML, CSS, React, MySQL/SQLServer.<br><br>📚 Currently learning: Angular and AWS Services (Cloud).</p>
+<p align="left">🎯 Currently transitioning my career to focus exclusively on Front-End Development.<br><br>🛠️ Main Techs: PHP, JavaScript, HTML, CSS, React, MySQL/SQLServer.<br><br>📚 Currently learning: Angular and AWS Services (Cloud).</p>
 
 ###
 
