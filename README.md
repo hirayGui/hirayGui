@@ -17,10 +17,6 @@
 
 ###
 
-<img align="right" height="230" src="https://i.imgflip.com/5eatey.png"  />
-
-###
-
 <h3 align="left">🖥️ Tech Stack:</h3>
 
 ###
